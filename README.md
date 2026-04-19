@@ -1,8 +1,9 @@
 # 📡 Network Stability Analysis Using a Linear Algebra Pipeline
 
-## 📘 Course
-UE24MA241B – Linear Algebra and Its Applications  
-PES University
+## 📖 Course Information
+
+- Course Name : Linear Algebra and Its Applications
+- Course Code : UE24MA241B
 
 ---
 
